@@ -6,4 +6,5 @@ Version naming system:
 v**STAGE**.MAJOR.Minor.patch
 
 Stage 0 = BETA
+
 Stage 1 = Release
