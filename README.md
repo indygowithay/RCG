@@ -9,3 +9,7 @@ v**STAGE**.MAJOR.Minor.patch
 Stage 0 = BETA
 
 Stage 1 = Release
+
+1rc = Release Candidate for v1.0.0.0
+
+Gold-1 = 1.0.0.0
